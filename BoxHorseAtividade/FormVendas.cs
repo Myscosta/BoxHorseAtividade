@@ -16,10 +16,20 @@ namespace BoxHorseAtividade
         {
             InitializeComponent();
         }
+        public void  fmCadastroProdut()
+        {
+           
+        }
 
         private void FormVendas_Load(object sender, EventArgs e)
         {
-            string nomeProduto = 
+     
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+          
+         
         }
     }
 }

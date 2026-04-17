@@ -16,5 +16,10 @@ namespace BoxHorseAtividade
         {
             InitializeComponent();
         }
+
+        private void btnVendas_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
