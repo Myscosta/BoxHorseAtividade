@@ -6,11 +6,19 @@ using System.Threading.Tasks;
 
 namespace BoxHorseAtividade
 {
-    internal class Produtos
+  public  class Produtos
     {
-       public Produtos()
+     public string Produto { get; set; } 
+     public int Quantidade { get; set;}
+     public double Valor { get; set; }
+
+        public Produtos(string nomeProduto, int qntProduto, double valorProduto )
         {
-            
+            Produto = nomeProduto;
+            Quantidade = qntProduto;
+            Valor = valorProduto;
+
         }
-    }
+   }
+  
 }
