@@ -1,0 +1,12 @@
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.csproj.AssemblyReference.cache
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.FormCadClientes.resources
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.FormVendas.resources
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.Properties.Resources.resources
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.csproj.GenerateResource.cache
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.csproj.CoreCompileInputs.cache
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\bin\Debug\BoxHorseAtividade.exe.config
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\bin\Debug\BoxHorseAtividade.exe
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\bin\Debug\BoxHorseAtividade.pdb
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.Form1.resources
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.exe
+C:\Users\erica.mfsilva\source\repos\BoxHorseAtividade\BoxHorseAtividade\obj\Debug\BoxHorseAtividade.pdb

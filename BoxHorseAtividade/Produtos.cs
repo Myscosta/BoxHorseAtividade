@@ -10,12 +10,11 @@ namespace BoxHorseAtividade
     {
      public string Produto { get; set; } 
      public int Quantidade { get; set;}
-     public double Valor { get; set; }
+     public decimal Valor { get; set; }
 
-        public Produtos(string nomeProduto, int qntProduto, double valorProduto )
+        public Produtos(string nomeProduto, decimal valorProduto )
         {
             Produto = nomeProduto;
-            Quantidade = qntProduto;
             Valor = valorProduto;
 
         }

@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{03748E81-6B92-4C97-AD19-EDCE8E86D3A1}|BoxHorseAtividade\\BoxHorseAtividade.csproj|solutionrelative:boxhorseatividade\\formcadclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03748E81-6B92-4C97-AD19-EDCE8E86D3A1}|BoxHorseAtividade\\BoxHorseAtividade.csproj|c:\\users\\erica.mfsilva\\source\\repos\\boxhorseatividade\\boxhorseatividade\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03748E81-6B92-4C97-AD19-EDCE8E86D3A1}|BoxHorseAtividade\\BoxHorseAtividade.csproj|C:\\Users\\erica.mfsilva\\source\\repos\\BoxHorseAtividade\\boxhorseatividade\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03748E81-6B92-4C97-AD19-EDCE8E86D3A1}|BoxHorseAtividade\\BoxHorseAtividade.csproj|solutionrelative:boxhorseatividade\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{03748E81-6B92-4C97-AD19-EDCE8E86D3A1}|BoxHorseAtividade\\BoxHorseAtividade.csproj|solutionrelative:boxhorseatividade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03748E81-6B92-4C97-AD19-EDCE8E86D3A1}|BoxHorseAtividade\\BoxHorseAtividade.csproj|c:\\users\\erica.mfsilva\\source\\repos\\boxhorseatividade\\boxhorseatividade\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03748E81-6B92-4C97-AD19-EDCE8E86D3A1}|BoxHorseAtividade\\BoxHorseAtividade.csproj|C:\\Users\\erica.mfsilva\\source\\repos\\BoxHorseAtividade\\boxhorseatividade\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03748E81-6B92-4C97-AD19-EDCE8E86D3A1}|BoxHorseAtividade\\BoxHorseAtividade.csproj|solutionrelative:boxhorseatividade\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "BoxHorseAtividade\\FormVendas.cs",
               "ToolTip": "C:\\Users\\erica.mfsilva\\source\\repos\\BoxHorseAtividade\\BoxHorseAtividade\\FormVendas.cs",
               "RelativeToolTip": "BoxHorseAtividade\\FormVendas.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T00:30:33.559Z",
               "EditorCaption": ""
@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "BoxHorseAtividade\\Form1.cs",
               "ToolTip": "C:\\Users\\erica.mfsilva\\source\\repos\\BoxHorseAtividade\\BoxHorseAtividade\\Form1.cs",
               "RelativeToolTip": "BoxHorseAtividade\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T00:54:55.584Z",
               "EditorCaption": ""
@@ -91,7 +91,7 @@
               "RelativeDocumentMoniker": "BoxHorseAtividade\\Produtos.cs",
               "ToolTip": "C:\\Users\\erica.mfsilva\\source\\repos\\BoxHorseAtividade\\BoxHorseAtividade\\Produtos.cs",
               "RelativeToolTip": "BoxHorseAtividade\\Produtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T01:12:42.749Z",
               "EditorCaption": ""

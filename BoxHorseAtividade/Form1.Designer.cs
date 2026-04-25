@@ -1,6 +1,6 @@
 ﻿namespace BoxHorseAtividade
 {
-    partial class FormPrincipal
+    partial class Form1
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -74,7 +74,7 @@
             this.button4.Text = "button4";
             this.button4.UseVisualStyleBackColor = true;
             // 
-            // FormPincipal
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -83,8 +83,8 @@
             this.Controls.Add(this.btnProdutos);
             this.Controls.Add(this.btnCadastrarCliente);
             this.Controls.Add(this.btnVendas);
-            this.Name = "FormPincipal";
-            this.Text = "FormPrincipal";
+            this.Name = "Form1";
+            this.Text = "Form1";
             this.ResumeLayout(false);
 
         }

@@ -10,20 +10,18 @@ using System.Windows.Forms;
 
 namespace BoxHorseAtividade
 {
-    public partial class FormPrincipal : Form
+    public partial class Form1 : Form
     {
-        public BindingList<Produtos> ListaProdutos = new BindingList<Produtos>()
-        public FormPrincipal()
-
+        public Form1()
         {
-            InitializeComponent();
 
-            Produtos p1 = new Produtos();
+            InitializeComponent();
         }
 
         private void btnVendas_Click(object sender, EventArgs e)
         {
-
+            FormVendas fomrVenda = new FormVendas();
+            fomrVenda.ShowDialog();
         }
     }
 }
